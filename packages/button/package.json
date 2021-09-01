@@ -1,0 +1,31 @@
+{
+  "name": "button",
+  "version": "0.0.1",
+  "description": "Svelte ui kit button component package",
+  "keywords": [
+    "svelte",
+    "ui-kit",
+    "button"
+  ],
+  "author": "Maesy <12759511+Maesy@users.noreply.github.com>",
+  "homepage": "https://github.com/Maesy/svelte-ui-kit/tree/main/packages/button#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maesy/svelte-ui-kit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Maesy/svelte-ui-kit/issues"
+  }
+}

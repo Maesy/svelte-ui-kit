@@ -1,0 +1,30 @@
+{
+  "name": "svelte-ui-kit",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "description": "This is a multi-package monorepo structure managed by lerna containing a svelte based ui kit which appearance is powered by tailwind.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maesy/svelte-ui-kit.git"
+  },
+  "keywords": [
+    "lerna",
+    "monorepo",
+    "svelte",
+    "ui-kit",
+    "tailwind"
+  ],
+  "author": "Maesy <12759511+Maesy@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maesy/svelte-ui-kit/issues"
+  },
+  "homepage": "https://github.com/Maesy/svelte-ui-kit#readme"
+}
